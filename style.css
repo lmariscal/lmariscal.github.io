@@ -1,0 +1,18 @@
+body {
+  padding: 0 2rem;
+  margin: 2rem;
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    padding: 0;
+    margin: 2rem 0.2rem;
+  }
+  .balloon.nes-container .nes-balloon {
+    max-width: 70%;
+  }
+
+  .github-link {
+    display: none;
+  }
+}
