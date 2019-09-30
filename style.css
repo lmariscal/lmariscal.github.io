@@ -3,6 +3,11 @@ body {
   margin: 2rem;
 }
 
+.container {
+  max-width: 980px;
+  margin: 0 auto;
+}
+
 .nes-icon {
   margin-right: 1em;
 }
